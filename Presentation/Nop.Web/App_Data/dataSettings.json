@@ -1,0 +1,5 @@
+﻿{
+  "DataConnectionString": "Data Source=TG\\SAYTG;Initial Catalog=CyCommerce4;Integrated Security=True;Persist Security Info=False",
+  "DataProvider": "sqlserver",
+  "RawDataSettings": {}
+}

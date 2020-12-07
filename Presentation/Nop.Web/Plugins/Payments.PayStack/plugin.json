@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Payment methods",
+  "FriendlyName": "PayStack Payment Method",
+  "SystemName": "Payments.PayStack",
+  "Version": "1.60",
+  "SupportedVersions": [ "4.30" ],
+  "Author": "cyCommerce sayTG",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Payments.PayStack.dll",
+  "Description": "PayStack Checkout with Payment Method gives your buyers a simplified and secure checkout experience"
+}
