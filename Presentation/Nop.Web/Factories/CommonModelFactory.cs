@@ -41,6 +41,7 @@ using Nop.Web.Framework.Themes;
 using Nop.Web.Framework.UI;
 using Nop.Web.Infrastructure.Cache;
 using Nop.Web.Models.Common;
+using Nop.Web.Models.Catalog;
 
 namespace Nop.Web.Factories
 {

@@ -11,7 +11,7 @@
         }
         else
         {
-            var returnUrl = Context.Request.Query.TryGetValue("returnUrl", out var url) && !StringValues.IsNullOrEmpty(url) 
+            var returnUrl = Context.Request.Query.TryGetValue("returnUrl", out var url) && !StringValues.IsNullOrEmpty(url)
                 ? url.ToString()
                 : webHelper.GetRawUrl(Context.Request);
 
@@ -45,6 +45,7 @@
                 </a>
             </li>
         }
+
         @await Component.InvokeAsync("Widget", new { widgetZone = PublicWidgetZones.HeaderLinksAfter })
     </ul>
     @if (Model.AllowPrivateMessages && !string.IsNullOrEmpty(Model.AlertMessage))

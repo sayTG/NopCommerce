@@ -34,6 +34,7 @@
                 </a>
             </li>
         }
+
         @if (Model.IsAuthenticated)
         {
             <li class="logout"><a href="@Url.RouteUrl("Logout")" class="ico-logout"><span>@T("Account.Logout")</span></a></li>
@@ -46,6 +47,25 @@
 
             <li class="login"><a href="@Url.RouteUrl("Login", new { returnUrl })" class="ico-login"><span>@T("Account.Login")</span></a></li>
         }
+
+        <li>
+            <div id="flyout-cart" class="flyout-main-wrapper">
+                <div class="shopping-cart-link">
+                    <a href="/cart" class="ico-cart">
+                        <div style="margin-top: -7px;">
+                            <span>Cart</span>
+                            <span class="cart-qty">(0)</span>
+                        </div>
+                    </a>
+                </div>
+                <div class="flyout-cart-wrapper" id="flyout-cart-wrapper">
+                <div class="mini-shopping-cart">
+                    <div class="count">You have no items in your shopping cart.</div>
+                    </div>
+                </div>
+            </div>
+        </li>
+
         @await Component.InvokeAsync("Widget", new { widgetZone = PublicWidgetZones.HeaderLinksAfter })
     </ul>
     @if (Model.AllowPrivateMessages && !string.IsNullOrEmpty(Model.AlertMessage))

@@ -283,3 +283,4 @@ C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Payments.PayP
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\netcoreapp3.1\Nop.Plugin.Payments.PayPalStandard.csproj.CopyComplete
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\netcoreapp3.1\Nop.Plugin.Payments.PayPalStandard.dll
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\netcoreapp3.1\Nop.Plugin.Payments.PayPalStandard.pdb
+C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\netcoreapp3.1\Nop.Plugin.Payments.PayPalStandard.csprojAssemblyReference.cache

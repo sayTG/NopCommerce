@@ -281,7 +281,6 @@ C:\Users\user\Downloads\nopCommerce_4.30_Source\Presentation\Nop.Web\Plugins\Shi
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\refs\System.Xml.XPath.dll
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\refs\System.Xml.XPath.XDocument.dll
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Presentation\Nop.Web\Plugins\Shipping.FixedByWeightByTotal\refs\WindowsBase.dll
-C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Shipping.FixedByWeightByTotal\obj\Debug\netcoreapp3.1\Nop.Plugin.Shipping.FixedByWeightByTotal.csprojAssemblyReference.cache
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Shipping.FixedByWeightByTotal\obj\Debug\netcoreapp3.1\Nop.Plugin.Shipping.FixedByWeightByTotal.AssemblyInfoInputs.cache
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Shipping.FixedByWeightByTotal\obj\Debug\netcoreapp3.1\Nop.Plugin.Shipping.FixedByWeightByTotal.AssemblyInfo.cs
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Shipping.FixedByWeightByTotal\obj\Debug\netcoreapp3.1\Nop.Plugin.Shipping.FixedByWeightByTotal.csproj.CoreCompileInputs.cache

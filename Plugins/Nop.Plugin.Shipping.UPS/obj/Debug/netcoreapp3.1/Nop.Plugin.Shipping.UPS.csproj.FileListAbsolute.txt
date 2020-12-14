@@ -276,10 +276,10 @@ C:\Users\user\Downloads\nopCommerce_4.30_Source\Presentation\Nop.Web\Plugins\Shi
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Presentation\Nop.Web\Plugins\Shipping.UPS\refs\System.Xml.XPath.dll
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Presentation\Nop.Web\Plugins\Shipping.UPS\refs\System.Xml.XPath.XDocument.dll
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Presentation\Nop.Web\Plugins\Shipping.UPS\refs\WindowsBase.dll
-C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\netcoreapp3.1\Nop.Plugin.Shipping.UPS.csprojAssemblyReference.cache
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\netcoreapp3.1\Nop.Plugin.Shipping.UPS.AssemblyInfoInputs.cache
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\netcoreapp3.1\Nop.Plugin.Shipping.UPS.AssemblyInfo.cs
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\netcoreapp3.1\Nop.Plugin.Shipping.UPS.csproj.CoreCompileInputs.cache
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\netcoreapp3.1\Nop.Plugin.Shipping.UPS.csproj.CopyComplete
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\netcoreapp3.1\Nop.Plugin.Shipping.UPS.dll
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\netcoreapp3.1\Nop.Plugin.Shipping.UPS.pdb
+C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\netcoreapp3.1\Nop.Plugin.Shipping.UPS.csprojAssemblyReference.cache

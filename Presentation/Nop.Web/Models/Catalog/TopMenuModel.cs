@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using Nop.Web.Framework.Models;
+using Nop.Web.Models.Common;
 
 namespace Nop.Web.Models.Catalog
 {
@@ -10,6 +11,7 @@ namespace Nop.Web.Models.Catalog
         {
             Categories = new List<CategorySimpleModel>();
             Topics = new List<TopicModel>();
+            HeaderLinksModel = new HeaderLinksModel();
         }
 
         public IList<CategorySimpleModel> Categories { get; set; }
@@ -26,7 +28,7 @@ namespace Nop.Web.Models.Catalog
         public bool DisplayBlogMenuItem { get; set; }
         public bool DisplayForumsMenuItem { get; set; }
         public bool DisplayContactUsMenuItem { get; set; }
-
+        public HeaderLinksModel HeaderLinksModel { get; set; }
         public bool UseAjaxMenu { get; set; }
 
         public bool HasOnlyCategories => Categories.Any()
@@ -52,6 +54,8 @@ namespace Nop.Web.Models.Catalog
             public int Level { get; set; }
             public bool ResponsiveMobileMenu { get; set; }
             public CategorySimpleModel Category { get; set; }
+            
+
         }
 
         #endregion

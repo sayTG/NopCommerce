@@ -36,7 +36,12 @@ input[type=checkbox], input[type=radio] {margin: 4px 4px 0 0;}
 
 /* HEADER SECTION STYLE */
 .header-logo{text-align:center;}
-.header-upper{background:#f9f9f9;box-shadow:0px 0px 3px #999;-webkit-box-shadow: 0px 0px 3px #999;-moz-box-shadow: 0px 0px 3px #999;height:45px;border-bottom:1px solid #ddd;}
+.header-upper {
+    height: 45px;
+}
+/*.header-upper{background:#f9f9f9;box-shadow:0px 0px 3px #999;-webkit-box-shadow: 0px 0px 3px #999;-moz-box-shadow: 0px 0px 3px #999;height:45px;border-bottom:1px solid #ddd;}*/
+
+/****Edited by sayTG**/
 .currency-selector,.language-selector,.tax-display-type-selector{float:left;margin:10px 6px 0px 0px;}
 .language-selector .language-list li {display: inline-block;padding: 0 5px;}
 .header-selectors-wrapper select {
@@ -50,12 +55,34 @@ input[type=checkbox], input[type=radio] {margin: 4px 4px 0 0;}
     box-shadow: none;
     -webkit-box-shadow:none;
 }
+.header-top-right ul li.my-account a, .header-top-right ul li.register a {
+    border-left: none;
+}
+
+.header-top-right ul li a {
+    padding: 8px 15px 8px 35px;
+    float: left;
+    font-size: 12px;
+    float: left;
+    line-height: 18px;
+    color: #333;
+    text-decoration: none;
+    margin: 6px 0px;
+    text-transform: capitalize;
+}
+.header-lower .search-box {
+    float: right;
+    position: relative;
+    margin-top: 5px;
+}
+
+/****END ****/
 .header-links-wrapper .admin-header-links{display:none !important;}
 .admin-header-links{display:block !important;}
 .header-links-wrapper .header-top-right{float:right;width:auto;position:relative;}
 .header-top-right ul li{float:left;}
-.header-top-right ul li.my-account a,.header-top-right ul li.register a{border-left:1px solid #ccc;}
-.header-top-right ul li a{padding:8px 15px 8px 35px;float:left;border-right:1px solid #ccc;font-size:12px;float:left;line-height:18px;color:#333;text-decoration:none;margin:6px 0px;text-transform:capitalize;}
+/*.header-top-right ul li.my-account a,.header-top-right ul li.register a{border-left:1px solid #ccc;}*/
+/*.header-top-right ul li a{padding:8px 15px 8px 35px;float:left;border-right:1px solid #ccc;font-size:12px;float:left;line-height:18px;color:#333;text-decoration:none;margin:6px 0px;text-transform:capitalize;}*/
 .header-top-right ul li a:hover{color:#ea5648;}
 .header-top-right ul li .ico-account{background:url(../images/user-icon.png) no-repeat 15px 9px;}
 .header-top-right ul li .ico-account:hover{background:url(../images/user-icon.png) no-repeat 15px -16px;}
@@ -79,7 +106,7 @@ input[type=checkbox], input[type=radio] {margin: 4px 4px 0 0;}
 .header-lower .ui-autocomplete img{display: block;float: left;min-width: 30px;margin-right:10px;}
 .header-lower .ui-menu .ui-menu-item a.ui-state-focus,.header-lower  .ui-menu .ui-menu-item a.ui-state-active{margin:0px;}
 .header-lower .ui-autocomplete li a span{float:left;width:80%;}
-.header-lower .search-box{float:left;position:relative;margin-top:5px;}
+/*.header-lower .search-box{float:left;position:relative;margin-top:5px;}*/
 .header-lower .search-box .navbar-form{padding-left:0px;}
 .header-lower .search-box .search-nav{background:#fff;border-bottom:1px solid #ddd;width:260px;padding-left:5px;}
 .forum-search-box .search-box-text:focus,.header-lower .search-box .search-nav:focus{border-color:#ea5648;}
@@ -89,8 +116,17 @@ input[type=checkbox], input[type=radio] {margin: 4px 4px 0 0;}
 
 
 /* FLYOUT CART STYLE */
+/***Edited by sayTG**/
+.flyout-main-wrapper {
+    float: right;
+    padding: 8px 15px 8px 10px;
+}
+
+
+/****END***/
+
 .flyout-main-wrapper .flyout-cart-wrapper{position:absolute;top:50px;left:75px;z-index: 999999;width:300px;box-shadow:0 0 2px rgba(0,0,0,0.25);-webkit-box-shadow:0 0 2px rgba(0,0,0,0.25);-moz-box-shadow:0 0 2px rgba(0,0,0,0.25);background-color: #fff;border:1px solid #ddd;border-radius:0px;opacity:0;visibility:hidden;}
-.flyout-main-wrapper{float:right;margin:20px 15px 0px 0px;}
+/*.flyout-main-wrapper{float:right;margin:20px 15px 0px 0px;}*/
 .flyout-main-wrapper.shopping-cart-link{float:right;}
 .flyout-main-wrapper .shopping-cart-link .ico-cart{background:url(../images/cart-icon.png) no-repeat 0px 0px;float:right;height:20px;padding-left:30px;text-decoration:none;}
 .flyout-main-wrapper .shopping-cart-link .ico-cart:hover{background:url(../images/cart-icon.png) no-repeat 0px -28px;}
