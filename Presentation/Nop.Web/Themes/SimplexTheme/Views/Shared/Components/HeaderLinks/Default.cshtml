@@ -4,9 +4,22 @@
     <ul>
         @await Component.InvokeAsync("Widget", new { widgetZone = PublicWidgetZones.HeaderLinksBefore })
         @await Component.InvokeAsync("AdminHeaderLinks")
+
+        <li>
+            <div class="header-logo">
+                @await Component.InvokeAsync("Logo")
+            </div>
+        </li>
+
+        <li>
+            <div class="search-box">
+                @await Component.InvokeAsync("SearchBox")
+            </div>
+        </li>
+
         @if (Model.IsAuthenticated)
         {
-            <li class="my-account"><a href="@Url.RouteUrl("CustomerInfo")" class="ico-account">@T("Account.MyAccount")@*@Model.CustomerName*@</a></li>
+            <li class="my-account"><a href="@Url.RouteUrl("CustomerInfo")" class="ico-account">@*@Model.CustomerName*@</a></li>
         }
         else
         {
@@ -14,14 +27,14 @@
                 ? url.ToString()
                 : webHelper.GetRawUrl(Context.Request);
 
-            <li class="register"><a href="@Url.RouteUrl("Register", new { returnUrl })" class="ico-register"><span>@T("Account.Register")</span></a></li>
+            <li class="register"><a href="@Url.RouteUrl("Register", new { returnUrl })" class="ico-register"><span></span></a></li>
         }
         @if (Model.WishlistEnabled)
         {
             <li class="my-wishlist">
                 <a href="@Url.RouteUrl("Wishlist")" class="ico-wishlist">
-                    <span class="wishlist-label">@T("Wishlist")</span>
-                    <span class="wishlist-qty">@T("Wishlist.HeaderQuantity", Model.WishlistItems)</span>
+                    <span class="wishlist-label"></span>
+                    <span class="wishlist-qty"></span>
                 </a>
             </li>
         }
@@ -53,8 +66,8 @@
                 <div class="shopping-cart-link">
                     <a href="/cart" class="ico-cart">
                         <div style="margin-top: -7px;">
-                            <span>Cart</span>
-                            <span class="cart-qty">(0)</span>
+                            <span></span>
+                            <span class="cart-qty"></span>
                         </div>
                     </a>
                 </div>

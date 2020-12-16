@@ -3,7 +3,7 @@
     @if (Model.ShowSearchBox)
     {
         <div class="form-group">
-            <input type="text" class="search-nav form-control" id="small-searchterms" autocomplete="off" placeholder="@T("Search.SearchBox.Tooltip")" name="q" aria-label="@T("Search.SearchBox.Text.Label")" />
+            <input type="text" class="search-nav form-control" id="small-searchterms" autocomplete="off" placeholder="" name="q" aria-label="@T("Search.SearchBox.Text.Label")" />
             @await Component.InvokeAsync("Widget", new { widgetZone = PublicWidgetZones.SearchBoxBeforeSearchButton })
             <input type="submit" class="btn search-box-button" value="" />
             @if (Model.SearchTermMinimumLength > 0)

@@ -11,9 +11,100 @@
     #customerTaxType, #customerCurrency, #customerlanguage {
         padding: 5px;
         margin-top: 10px;
+        color: black;
+        border: none;
+        background: white;
+        height: 70px;
+        font-size: medium;
+        width: 100%;
     }
 
+    .header-logo {
+        text-align: center;
+        /*margin: 0px 50px 0px 0px;*/
+    }
+
+    .header-top-right ul li .ico-register {
+        background: url(../images/register-icon.png) no-repeat 15px 10px;
+        margin-top: 20px;
+        height: 40px;
+        background-size: 20px 60px;
+    }
+
+    .header-top-right ul li .ico-account {
+        background: url(../images/user-icon.png) no-repeat 15px 9px;
+        margin-top: 20px;
+        height: 40px;
+        background-size: 20px 60px;
+    }
+
+    .header-top-right ul li .ico-wishlist {
+        background: url(../images/wishlist-icon.png) no-repeat 15px 10px;
+        height: 30px;
+        background-size: 20px 60px;
+        margin-top: 20px;
+    }
+
+    #flyout-cart .shopping-cart-link {
+        height: 35px;
+        margin-top: 18px;
+    }
+
+    .flyout-main-wrapper .shopping-cart-link .ico-cart {
+        background: url(../images/cart-icon.png) no-repeat 0px 0px;
+        float: right;
+        height: 20px;
+        padding-left: 30px;
+        text-decoration: none;
+        background-size: 20px 60px;
+    }
+
+    .header-top-right ul li .ico-login {
+        background: url(../images/login-icon.png) no-repeat 15px 10px;
+        display: none;
+    }
+
+    .header-top-right ul li .ico-logout {
+        background: url(../images/logout-icon.png) no-repeat 15px 9px;
+        display: none;
+    }
+
+    .header-upper .search-box {
+        float: right;
+        position: relative;
+        margin-top: 18px;
+        margin-right: 10px;
+    }
+
+    .header-upper .search-box .navbar-form {
+        padding-left: 0px;
+    }
+
+    .header-upper .search-box .search-nav {
+        background: #fff;
+        border-bottom: none;
+        width: 260px;
+        padding-left: 5px;
+    }
+
+    .header-lower {
+        display: none;
+    }
+
+    .header-menu .main-menu {
+        background: white;
+    }
+
+    .header-menu {
+        background: white;
+    }
+
+        .header-menu .navbar.navbar-inverse .nav.navbar-nav > li > a {
+            color: black;
+        }
+
     /***Edited by sayTG***/
+
     .container{
         width: 1170px;
     }
