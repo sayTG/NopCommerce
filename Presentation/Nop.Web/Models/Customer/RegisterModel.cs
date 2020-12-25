@@ -4,6 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Nop.Web.Framework.Mvc.ModelBinding;
 using Nop.Web.Framework.Models;
+using Nop.Web.Models.Catalog;
 
 namespace Nop.Web.Models.Customer
 {
@@ -157,5 +158,8 @@ namespace Nop.Web.Models.Customer
         public IList<CustomerAttributeModel> CustomerAttributes { get; set; }
 
         public IList<GdprConsentModel> GdprConsents { get; set; }
+
+        public CategoryModel CategoryModel { get; set; }
+       
     }
 }

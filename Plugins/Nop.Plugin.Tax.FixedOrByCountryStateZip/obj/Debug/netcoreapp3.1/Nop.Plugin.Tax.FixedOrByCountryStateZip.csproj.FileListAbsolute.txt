@@ -284,4 +284,3 @@ C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Tax.FixedOrBy
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\netcoreapp3.1\Nop.Plugin.Tax.FixedOrByCountryStateZip.csproj.CopyComplete
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\netcoreapp3.1\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\netcoreapp3.1\Nop.Plugin.Tax.FixedOrByCountryStateZip.pdb
-C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\netcoreapp3.1\Nop.Plugin.Tax.FixedOrByCountryStateZip.csprojAssemblyReference.cache

@@ -9,54 +9,55 @@
 */
 @media (min-width:1200px) {
     #customerTaxType, #customerCurrency, #customerlanguage {
-        padding: 5px;
-        margin-top: 10px;
+        /*padding: 5px;
+        margin-top: 10px;*/
         color: black;
         border: none;
         background: white;
-        height: 70px;
+        /*height: 70px;
         font-size: medium;
-        width: 100%;
+        width: 100%;*/
     }
 
     .header-logo {
         text-align: center;
+        margin-top: -20px;
         /*margin: 0px 50px 0px 0px;*/
     }
 
     .header-top-right ul li .ico-register {
         background: url(../images/register-icon.png) no-repeat 15px 10px;
-        margin-top: 20px;
-        height: 40px;
-        background-size: 20px 60px;
+        /*margin-top: 20px;*/
+        height: 30px;
+        background-size: 15px 50px;
     }
 
     .header-top-right ul li .ico-account {
         background: url(../images/user-icon.png) no-repeat 15px 9px;
-        margin-top: 20px;
-        height: 40px;
-        background-size: 20px 60px;
+        /*margin-top: 20px;*/
+        height: 30px;
+        background-size: 15px 50px;
     }
 
     .header-top-right ul li .ico-wishlist {
         background: url(../images/wishlist-icon.png) no-repeat 15px 10px;
         height: 30px;
-        background-size: 20px 60px;
-        margin-top: 20px;
+        background-size: 15px 50px;
+        /*margin-top: 20px;*/
     }
 
     #flyout-cart .shopping-cart-link {
-        height: 35px;
-        margin-top: 18px;
+        /*height: 35px;
+        margin-top: 18px;*/
     }
 
     .flyout-main-wrapper .shopping-cart-link .ico-cart {
         background: url(../images/cart-icon.png) no-repeat 0px 0px;
         float: right;
-        height: 20px;
+        height: 30px;
         padding-left: 30px;
         text-decoration: none;
-        background-size: 20px 60px;
+        background-size: 18px 50px;
     }
 
     .header-top-right ul li .ico-login {
@@ -88,7 +89,8 @@
     }
 
     .header-lower {
-        display: none;
+        /*display: none;*/
+        padding: unset;
     }
 
     .header-menu .main-menu {
@@ -100,10 +102,90 @@
     }
 
         .header-menu .navbar.navbar-inverse .nav.navbar-nav > li > a {
-            color: black;
+            color: #363636;
         }
 
-    /***Edited by sayTG***/
+    /*.owl-carousel .owl-stage-outer {
+        width: 100vw;
+        left: calc(-50vw + 50%);
+    }
+
+    .owl-carousel .owl-nav button.owl-next {
+        color: transparent;
+        background-size: 20px;
+        border: none;
+    }
+
+    .owl-carousel .owl-nav button.owl-prev {
+        color: transparent;
+        background-size: 20px;
+        border: none;
+    }*/
+
+    .header-links-wrapper .header-top-right {
+        float: right;
+        width: auto;
+        position: unset; 
+    }
+
+    .box-shadow-wrapper {
+        display: none;
+    }
+
+    /*.product-filters-wrapper {
+        display: none;
+    }*/
+
+    /*.side-content.col-md-9 {
+        width: 100%;
+    }*/
+
+    .header-menu .navbar.navbar-inverse .nav.navbar-nav > li {
+        width: 10%;
+    }
+    .navbar-nav {
+        width: 100%;
+    }
+
+    .header-menu .navbar.navbar-inverse .nav.navbar-nav > li {
+        float: left;
+        width: 10%;
+        text-align: center;
+        display: inline-grid;
+    }
+
+    /*img {
+        margin-top: -20px;
+    }*/
+
+    .header-lower .search-box {
+        margin-top: -10px;
+    }
+
+    .owl-carousel .owl-nav button.owl-next {
+        right: -70px;
+    }
+
+    .owl-carousel .owl-nav button.owl-prev {
+        left: -70px;
+    }
+
+    .flyout-main-wrapper .shopping-cart-link .cart-label {
+        display: none;
+    }
+
+    .flyout-main-wrapper .shopping-cart-link .cart-qty {
+        display: none;
+    }
+
+    .flyout-main-wrapper .flyout-cart-wrapper {
+        display: none;
+    }
+
+    .side-content.col-md-9.Clothing {
+        width: 100%;
+    }
+        /***Edited by sayTG***/
 
     .container{
         width: 1170px;
@@ -333,6 +415,9 @@
         margin-left: 146px;
     }
 
+    .box-shadow-wrapper {
+        display: none;
+    }
 
 
     /***Adjustment ended by sayTG***/
@@ -819,6 +904,10 @@
         display: none;
     }
 
+    .box-shadow-wrapper {
+        display: none;
+    }
+
     /***Adjustment ended by sayTG***/
 
 
@@ -965,6 +1054,10 @@
         text-align: center;
         margin-top: 8px;
         margin-left: 170px;
+    }
+
+    .box-shadow-wrapper {
+        display: none;
     }
 
     /***Adjustment ended by sayTG***/

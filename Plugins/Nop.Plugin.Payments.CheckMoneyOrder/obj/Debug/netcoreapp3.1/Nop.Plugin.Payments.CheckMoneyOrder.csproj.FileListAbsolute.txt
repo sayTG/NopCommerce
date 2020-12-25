@@ -277,10 +277,10 @@ C:\Users\user\Downloads\nopCommerce_4.30_Source\Presentation\Nop.Web\Plugins\Pay
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\refs\System.Xml.XPath.dll
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\refs\System.Xml.XPath.XDocument.dll
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\refs\WindowsBase.dll
+C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp3.1\Nop.Plugin.Payments.CheckMoneyOrder.csprojAssemblyReference.cache
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp3.1\Nop.Plugin.Payments.CheckMoneyOrder.AssemblyInfoInputs.cache
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp3.1\Nop.Plugin.Payments.CheckMoneyOrder.AssemblyInfo.cs
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp3.1\Nop.Plugin.Payments.CheckMoneyOrder.csproj.CoreCompileInputs.cache
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp3.1\Nop.Plugin.Payments.CheckMoneyOrder.csproj.CopyComplete
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp3.1\Nop.Plugin.Payments.CheckMoneyOrder.dll
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp3.1\Nop.Plugin.Payments.CheckMoneyOrder.pdb
-C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp3.1\Nop.Plugin.Payments.CheckMoneyOrder.csprojAssemblyReference.cache

@@ -5,7 +5,7 @@
         @await Component.InvokeAsync("Widget", new { widgetZone = PublicWidgetZones.HeaderLinksBefore })
         @await Component.InvokeAsync("AdminHeaderLinks")
 
-        <li>
+        @*<li>
             <div class="header-logo">
                 @await Component.InvokeAsync("Logo")
             </div>
@@ -15,7 +15,7 @@
             <div class="search-box">
                 @await Component.InvokeAsync("SearchBox")
             </div>
-        </li>
+        </li>*@
 
         @if (Model.IsAuthenticated)
         {
@@ -33,8 +33,8 @@
         {
             <li class="my-wishlist">
                 <a href="@Url.RouteUrl("Wishlist")" class="ico-wishlist">
-                    <span class="wishlist-label"></span>
-                    <span class="wishlist-qty"></span>
+                    @*<span class="wishlist-label"></span>
+                    <span class="wishlist-qty"></span>*@
                 </a>
             </li>
         }
@@ -65,17 +65,17 @@
             <div id="flyout-cart" class="flyout-main-wrapper">
                 <div class="shopping-cart-link">
                     <a href="/cart" class="ico-cart">
-                        <div style="margin-top: -7px;">
+                        @*<div style="margin-top: -7px;">
                             <span></span>
                             <span class="cart-qty"></span>
-                        </div>
+                        </div>*@
                     </a>
                 </div>
-                <div class="flyout-cart-wrapper" id="flyout-cart-wrapper">
+                @*<div class="flyout-cart-wrapper" id="flyout-cart-wrapper">
                 <div class="mini-shopping-cart">
                     <div class="count">You have no items in your shopping cart.</div>
                     </div>
-                </div>
+                </div>*@
             </div>
         </li>
 

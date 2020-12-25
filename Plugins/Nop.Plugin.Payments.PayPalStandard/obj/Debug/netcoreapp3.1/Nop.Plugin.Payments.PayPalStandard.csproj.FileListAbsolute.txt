@@ -277,10 +277,10 @@ C:\Users\user\Downloads\nopCommerce_4.30_Source\Presentation\Nop.Web\Plugins\Pay
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\refs\System.Xml.XPath.dll
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\refs\System.Xml.XPath.XDocument.dll
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\refs\WindowsBase.dll
+C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\netcoreapp3.1\Nop.Plugin.Payments.PayPalStandard.csprojAssemblyReference.cache
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\netcoreapp3.1\Nop.Plugin.Payments.PayPalStandard.AssemblyInfoInputs.cache
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\netcoreapp3.1\Nop.Plugin.Payments.PayPalStandard.AssemblyInfo.cs
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\netcoreapp3.1\Nop.Plugin.Payments.PayPalStandard.csproj.CoreCompileInputs.cache
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\netcoreapp3.1\Nop.Plugin.Payments.PayPalStandard.csproj.CopyComplete
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\netcoreapp3.1\Nop.Plugin.Payments.PayPalStandard.dll
 C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\netcoreapp3.1\Nop.Plugin.Payments.PayPalStandard.pdb
-C:\Users\user\Downloads\nopCommerce_4.30_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\netcoreapp3.1\Nop.Plugin.Payments.PayPalStandard.csprojAssemblyReference.cache
