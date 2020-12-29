@@ -412,7 +412,7 @@
     .header-selectors-wrapper {
         width: 100%;
         text-align: center;
-        margin-left: 146px;
+        margin-left: 125px;
     }
 
     .box-shadow-wrapper {
@@ -1027,7 +1027,8 @@
 
         .header-top-right ul li .ico-wishlist {
             background: url(../images/wishlist-white-icon.png) no-repeat 0px 17px;
-            margin-left: 150px;
+            margin-left: 130px;
+            height: 30px;
         }
 
         .header-top-right ul li a {
@@ -1052,8 +1053,9 @@
     .flyout-main-wrapper {
         float: none;
         text-align: center;
-        margin-top: 8px;
-        margin-left: 170px;
+        margin-top: 15px;
+        margin-left: 160px;
+        padding: unset;
     }
 
     .box-shadow-wrapper {
